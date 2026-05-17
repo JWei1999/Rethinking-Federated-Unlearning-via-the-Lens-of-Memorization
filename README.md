@@ -1,5 +1,5 @@
 # Rethinking Federated Unlearning via the Lens of Memorization
-
+[![DOI](https://zenodo.org/badge/1241284109.svg)](https://doi.org/10.5281/zenodo.20258278)
 Official implementation for the paper:
 
 Rethinking Federated Unlearning via the Lens of Memorization (KDD 2026)
